@@ -26,7 +26,8 @@
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/marufa-akter-033872185/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="marufaakter1947" height="30" width="40" /></a>
-    <a href="https://discord.gg/hhNPYpFK" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/hhNPYpFK" height="30" width="40" /></a>
+    <!-- <a href="https://discord.gg/hhNPYpFK" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/hhNPYpFK" height="30" width="40" /></a> -->
+    <a href="[https://discord.gg/hhNPYpFK](https://discord.com/channels/1440566220410589217/1440566221014831138)" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/hhNPYpFK" height="30" width="40" /></a>
   </p>
 </div>
 
