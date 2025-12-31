@@ -16,7 +16,8 @@
 - 🖥️ I’m currently working on **React.js and Next.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js and MongoDB** for the backend.
 - 🛠️ I’m currently learning **React Native and AWS**.
-- 📫 Feel free to reach me out **[Email](marufaakter1947@gmail.com)**
+- 📫 Feel free to reach me out **[Email](mailto:marufaakter1947@gmail.com)
+**
   
 <br/>
 
